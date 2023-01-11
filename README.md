@@ -10,7 +10,7 @@
 
 
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabunmi-gbemisoye-053a7822a/)
-##### . 👨🏻‍💻 Portfolio : [https://jummydev.vercel.app/](https://jummydev.vercel.app/)
+
 
 ### Languages and Tools:
 <p>
