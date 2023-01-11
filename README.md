@@ -12,17 +12,38 @@
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabunmi-gbemisoye-053a7822a/)
 ##### . 👨🏻‍💻 Portfolio : [https://jummydev.vercel.app/](https://jummydev.vercel.app/)
 
+### Languages and Tools:
+<p>
+ <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px"> 
+ </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  height="40" style="vertical-align:top; margin:4px">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"   height="40" style="vertical-align:top; margin:4px">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
+ <a href="https://github.com/gift56" target="_blank" rel="noreferrer"> 
+<img  src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
+ </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"   style="vertical-align:top; margin: 4px" /> 
+</a>
 
+ 
+ 
+---
 
 
 
 <h4 >Top languages</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwa-bunmi&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwa-bunmi&langs_count=10&theme=tokyonight&layout=compact" alt="Oluwabunmi :: Top Langs" /></p>
 
 <h4 >Stats</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Oluwa-bunmi&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Oluwa-bunmi&show_icons=true&theme=synthwave" alt="Oluwabunmi :: Profile Stats" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
